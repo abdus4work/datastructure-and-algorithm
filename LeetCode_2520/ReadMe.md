@@ -76,6 +76,6 @@ var countDigits = function(num) {
 
 - Number is 0: Should return 0 since division by zero is not defined.
 
-## Time Complexity:  `O(n)`
+## Time Complexity:  `O(log10(n))`
 
 ## Space Complexity:  `O(1)`
