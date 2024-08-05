@@ -2,3 +2,4 @@
 # 2. [Reverse Integer](./LeetCode_7/README.md)
 # 3. [Palindrome Number](/LeetCode_09/Solution.md)
 # 4. [Armstrong Number](/Armstrong_Number_Check/Solution.md)
+# 5. [Print All Divisors of a Number](/CodeStudio_Print_All_Divisors/Solution.md)
