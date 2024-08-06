@@ -89,10 +89,24 @@ In this approach we loop through 1 to sqrt(N) and check if the number is divisib
 
 ## Dry Run:
 Let's take N=9
-- i=1, 9%1==0(true), count=1 -> 9/1!=1(true), count=2
-- i=2, 9%2==0 (false)
-- i=3, 9%3==0 (true), count=3 -> 9/3!=3(false)
-- Loop ends and count=3!=2, so return false
+- i=1
+  - 1*1<=9 -> true
+  - 9%1==0 -> true
+  - count=1
+  - 9/1 != 1 -> true
+  - count=2
+- i=2
+  - 2*2<=9 -> true
+  - 9%2!=0 -> false
+- i=3
+  - 3*3<=9 -> true
+  - 9%3==0 -> true
+  - count=3
+  - 9/3!=3 -> false
+- i=4
+  - 4*4<=9 -> false
+- Loop ends
+- count!=2 -> false
 
 ## Code:
 
@@ -141,3 +155,4 @@ let checkPrimeOptimal=(num)=>{
 The time complexity of this approach is `O(sqrt(N))` because we are iterating from 1 to sqrt(N).
 
 ## Space Complexity: `O(1)`
+The space complexity of this approach is `O(1)` because we are using only a constant amount of space.
