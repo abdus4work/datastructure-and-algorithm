@@ -3,3 +3,4 @@
 # 3. [Palindrome Number](/LeetCode_09/Solution.md)
 # 4. [Armstrong Number](/Armstrong_Number_Check/Solution.md)
 # 5. [Print All Divisors of a Number](/CodeStudio_Print_All_Divisors/Solution.md)
+# 6. [Perfect Number](/LeetCode_507/Solution.md)
