@@ -1,4 +1,4 @@
-package CodeStudio_Print_All_Divisors;
+package CodeStudio_Solution.Print_All_Divisors;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package LeetCode_7;
+package LeetCode_Solution.LeetCode_7;
 
 public class Solution {
   public static int reverse(int x) {
