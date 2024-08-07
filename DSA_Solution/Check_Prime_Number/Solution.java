@@ -1,4 +1,4 @@
-package Check_Prime_Number;
+package DSA_Solution.Check_Prime_Number;
 
 public class Solution {
   // ? check prime brute force approach

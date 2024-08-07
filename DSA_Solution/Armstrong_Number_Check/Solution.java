@@ -1,4 +1,4 @@
-package Armstrong_Number_Check;
+package DSA_Solution.Armstrong_Number_Check;
 
 public class Solution {
   /**

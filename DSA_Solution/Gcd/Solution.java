@@ -1,4 +1,4 @@
-package Gcd;
+package DSA_Solution.Gcd;
 public class Solution{
 
 
