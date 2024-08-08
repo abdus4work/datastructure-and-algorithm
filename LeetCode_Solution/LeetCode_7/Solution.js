@@ -1,6 +1,18 @@
 /**
- * @param {number} x
- * @return {number}
+ * Problem URL: https://leetcode.com/problems/reverse-integer/
+ * 
+ * 
+ * Time Complexity: O(log(x))
+ * Space Complexity: O(1)
+ * 
+ */
+
+
+
+/**
+ * 
+ * @param {number} x 
+ * @returns number
  */
 var reverse = function(x) {
   let sum = 0;

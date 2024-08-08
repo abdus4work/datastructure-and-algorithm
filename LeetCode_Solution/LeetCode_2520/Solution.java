@@ -1,6 +1,23 @@
+/*
+ * 
+ * Problem Link: https://leetcode.com/problems/count-the-digits-that-divide-a-number/description/
+ * 
+ */
+
+
 package LeetCode_Solution.LeetCode_2520;
 
 public class Solution {
+
+  /**
+   * Counts the number of digits in a given number that divide the number itself.
+   * 
+   * Time Complexity: O(log(n))
+   * Space Complexity: O(1)
+   * 
+   * @param n The number to be checked.
+   * @return The number of digits that divide the number.
+   */
   public static int countDigits(int n) {
     int count = 0;
     int num = n;

@@ -1,3 +1,10 @@
+/*
+ * Problem Link- https://leetcode.com/problems/palindrome-number/description/
+ * 
+ * TimeComplexity- O(log(x))
+ * SpaceComplexity- O(1)
+ */
+
 package LeetCode_Solution.LeetCode_09;
 
 public class Solution {
@@ -11,18 +18,18 @@ public class Solution {
   public static boolean isPalindrome(int x) {
     int num = x;
     int reverse = 0;
-    while (num > 0) {
-      int lastDigit = num % 10;
-      reverse = reverse * 10 + lastDigit;
+    while (num > 0) { 
+      int lastDigit = num % 10; // get the last digit of the number
+      reverse = reverse * 10 + lastDigit; // reverse the number
       num /= 10;
     }
-    if (reverse == x)
+    if (reverse == x) // check if the reversed number is equal to the original number
       return true;
     else
       return false;
   }
 
   public static void main(String[] args) {
-    System.out.println(isPalindrome(153));
+    System.out.println(isPalindrome(153)); // Output: false
   }
 }

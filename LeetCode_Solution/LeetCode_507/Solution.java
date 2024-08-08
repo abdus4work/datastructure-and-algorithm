@@ -1,3 +1,8 @@
+/**
+ *  Problem Link- https://leetcode.com/problems/perfect-number/
+ * 
+ */
+
 package LeetCode_Solution.LeetCode_507;
 
 public class Solution {
@@ -5,6 +10,9 @@ public class Solution {
   //! Brute Force Approach
   /**
    * Checks if a given number is a perfect number using a brute force approach.
+   * 
+   * Time Complexity: O(n)
+   * Space Complexity: O(1)
    * 
    * @param num The number to be checked.
    * @return True if the number is a perfect number, false otherwise.
@@ -21,6 +29,9 @@ public class Solution {
   //! Optimize solution
   /**
    * Checks if a given number is a perfect number.
+   * 
+   * Time Complexity: O(sqrt(n))
+   * Space Complexity: O(1)
    * 
    * @param num the number to be checked
    * @return true if the number is a perfect number, false otherwise

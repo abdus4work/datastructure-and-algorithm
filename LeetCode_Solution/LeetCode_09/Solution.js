@@ -1,3 +1,12 @@
+/**
+ *  Problem Link: https://leetcode.com/problems/palindrome-number/
+ * 
+ * Time Complexity: O(log(x))
+ * Space Complexity: O(1)
+ */
+
+
+
 
 /**
  * Checks if a given number is a palindrome.
@@ -9,11 +18,11 @@ var isPalindrome = function (x) {
   let num = x;
   let reverse = 0;
   while (num > 0) {
-      let lastDigit = num % 10;
-      reverse = reverse * 10 + lastDigit;
+      let lastDigit = num % 10; // Extracting the last digit of the number.
+      reverse = reverse * 10 + lastDigit; // Reversing the number.
       num = Math.floor(num/10);
   }
-  if (reverse == x) return true;
+  if (reverse == x) return true; // If the reversed number is equal to the original number, then it is a palindrome.
   else return false;
 };
 

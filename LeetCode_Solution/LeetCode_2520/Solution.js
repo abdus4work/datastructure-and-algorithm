@@ -1,3 +1,15 @@
+// Problem Link: https://leetcode.com/problems/self-dividing-numbers/
+
+
+/**
+ * Counts the number of digits in a given number that divide the number itself.
+ * 
+ * Time Complexity: O(log(num))
+ * Space Complexity: O(1)
+ * 
+ * @param {number} num - The number to be checked.
+ * @returns {number} - The number of digits that divide the number itself.
+ */
 var countDigits = function(num) {
   let count = 0;
   let n = num;
