@@ -13,4 +13,6 @@ This repository contains solutions to a variety of coding problems from LeetCode
 7.  [GCD of Two Numbers](/DSA_Solution/Gcd)
 8.  [Check Prime Number](/DSA_Solution/Check_Prime_Number)
 9.  [Print All Prime Factors](/DSA_Solution/Print_All_Prime_Factors)
+10. [Print N times something using recursion](/DSA_Solution/Print_N_times_Recursion/)
+11. [Sum of First N numbers](/DSA_Solution/Sum_of_N_numbers_recursion/)
 
