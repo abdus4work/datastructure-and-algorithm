@@ -15,4 +15,5 @@ This repository contains solutions to a variety of coding problems from LeetCode
 9.  [Print All Prime Factors](/DSA_Solution/Print_All_Prime_Factors)
 10. [Print N times something using recursion](/DSA_Solution/Print_N_times_Recursion/)
 11. [Sum of First N numbers](/DSA_Solution/Sum_of_N_numbers_recursion/)
+12. [Factorial of a Number](/DSA_Solution/Factorial_of_a_Number)
 
