@@ -19,4 +19,13 @@ This repository contains solutions to a variety of coding problems from LeetCode
 13. [Reverse array using recursion](/DSA_Solution/Reverse_array_using_recursion/)
 14. [Check if a number is palindrome or not -**LeetCode**](/LeetCode_Solution/LeetCode_125/)
 15. [Find fibonacci number using recursion -**LeetCode**](/LeetCode_Solution/LeetCode_509/)
+16. [Find the frequency of a number in range -**GFG**](/GFG_Solution/Frequencies_of_Limited_range/)
+17. [Selection sort](/DSA_Solution/Selection_sort)
+18. [Bubble sort](/DSA_Solution/Bubble_sort/)
+19. [Insertion sort](/DSA_Solution/Insertion_sort/)
+20. [Merge two sorted arrays](/DSA_Solution/Merge_two_sorted_array/)
+21. [Merge sort](/DSA_Solution/Merge_sort/)
+22. [Find largest element in an array](/DSA_Solution/FInd_the_largest_element/)
+23. [Find the second smallest and second largest element in an array](/DSA_Solution/Find_second_smalles_and_largest/)
+24. [Check if an array is sorted or not](/DSA_Solution/Check_sorted/)
 
