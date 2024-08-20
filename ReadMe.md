@@ -30,4 +30,5 @@ This repository contains solutions to a variety of coding problems from LeetCode
 24. [Check if an array is sorted or not](/DSA_Solution/Check_sorted/)
 25. [Remove duplicates from a sorted array](/LeetCode_Solution/LeetCode_26/)
 26. [Left rotate an array by one](/DSA_Solution/Left_rotate_by_one/)
+27. [Left rotate an array by D](/DSA_Solution/Left_rotate_by_D_place/)
 
