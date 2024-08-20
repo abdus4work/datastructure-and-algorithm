@@ -8,7 +8,7 @@
  */
 
 
-package LeetCode_Solution.LeetCode_7;
+package LeetCode_7;
 
 public class Solution {
 

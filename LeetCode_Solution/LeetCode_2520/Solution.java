@@ -5,7 +5,7 @@
  */
 
 
-package LeetCode_Solution.LeetCode_2520;
+package LeetCode_2520;
 
 public class Solution {
 

@@ -5,7 +5,7 @@
  * SpaceComplexity- O(1)
  */
 
-package LeetCode_Solution.LeetCode_09;
+package LeetCode_09;
 
 public class Solution {
 

@@ -1,6 +1,6 @@
 // Problem link: https://leetcode.com/problems/fibonacci-number/
 
-package LeetCode_Solution.LeetCode_509;
+package LeetCode_509;
 
 import java.util.Arrays;
 

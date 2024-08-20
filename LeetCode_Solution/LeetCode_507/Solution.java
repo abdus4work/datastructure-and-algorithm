@@ -3,7 +3,7 @@
  * 
  */
 
-package LeetCode_Solution.LeetCode_507;
+package LeetCode_507;
 
 public class Solution {
 

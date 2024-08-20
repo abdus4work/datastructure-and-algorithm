@@ -1,6 +1,6 @@
 // Problem Link: https://leetcode.com/problems/valid-palindrome/
 
-package LeetCode_Solution.LeetCode_125;
+package LeetCode_125;
 
 public class Solution {
   /*
