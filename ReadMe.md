@@ -29,4 +29,5 @@ This repository contains solutions to a variety of coding problems from LeetCode
 23. [Find the second smallest and second largest element in an array](/DSA_Solution/Find_second_smalles_and_largest/)
 24. [Check if an array is sorted or not](/DSA_Solution/Check_sorted/)
 25. [Remove duplicates from a sorted array](/LeetCode_Solution/LeetCode_26/)
+26. [Left rotate an array by one](/DSA_Solution/Left_rotate_by_one/)
 
